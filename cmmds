@@ -1,3 +1,0 @@
-streamlit run frontend/streamlit_app.py
-
-uvicorn app.main:app --reload
