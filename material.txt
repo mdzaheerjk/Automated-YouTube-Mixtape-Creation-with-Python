@@ -1,0 +1,13 @@
+github src : https://github.com/d-hackmt/ytautomation
+
+
+Tech stack used : 
+
+Python 
+Fast api 
+Github
+pydub
+ffmpeg
+streamlit 
+
+modular in nature
